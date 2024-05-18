@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net6.0\EventManagementSystem.exe
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net6.0\EventManagementSystem.deps.json
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net6.0\EventManagementSystem.runtimeconfig.json
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net6.0\EventManagementSystem.dll
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\bin\Debug\net6.0\EventManagementSystem.pdb
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.AssemblyInfo.cs
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.dll
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\refint\EventManagementSystem.dll
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.pdb
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\EventManagementSystem.genruntimeconfig.cache
+C:\Users\DELL\source\repos\EventManagementSystem\EventManagementSystem\obj\Debug\net6.0\ref\EventManagementSystem.dll
